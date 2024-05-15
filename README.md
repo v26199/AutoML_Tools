@@ -27,7 +27,7 @@ By harnessing the strengths of these tools, I've achieved exceptional results in
 Excited to explore other advanced AutoML tools like AWS SageMaker and Google AutoML in future projects! Stay tuned for more groundbreaking developments.
 
 Stay Connected:
-Let's embark on a journey to redefine machine learning together! Connect with me on LinkedIn [www.linkedin.com/in/vishal-patel-a3356513b] for more updates and discussions.
+Let's embark on a journey to redefine machine learning together! Connect with me on LinkedIn [https://www.linkedin.com/in/vishal-patel-a3356513b/] for more updates and discussions.
 
 Tags:
 #AutoML #MachineLearning #DataScience #Innovation #GitHub
