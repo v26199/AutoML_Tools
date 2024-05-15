@@ -14,11 +14,11 @@ Welcome to my latest project, where I delve into the world of advanced AutoML to
 ## Key Differences:
 Each tool brings something distinct to the table:
 
-1> FLAML: Rapid optimization.
-2> Auto-sklearn: Robust model selection.
-3> TPOT: Genetic algorithm-driven pattern discovery.
-4> H2O.ai AutoML: Scalable solutions.
-5> EvalML: Comprehensive model evaluation.
+1. FLAML: Rapid optimization.
+2. Auto-sklearn: Robust model selection.
+3. TPOT: Genetic algorithm-driven pattern discovery.
+4. H2O.ai AutoML: Scalable solutions.
+5. EvalML: Comprehensive model evaluation.
 
 ## Project Impact:
 By harnessing the strengths of these tools, I've achieved exceptional results in record time. This project not only showcases the capabilities of each AutoML tool but also provides insights into their comparative performance, guiding future model development endeavours.
@@ -27,7 +27,7 @@ By harnessing the strengths of these tools, I've achieved exceptional results in
 Excited to explore other advanced AutoML tools like AWS SageMaker and Google AutoML in future projects! Stay tuned for more groundbreaking developments.
 
 Stay Connected:
-Let's embark on a journey to redefine machine learning together! Connect with me on LinkedIn [insert profile link] for more updates and discussions.
+Let's embark on a journey to redefine machine learning together! Connect with me on LinkedIn [www.linkedin.com/in/vishal-patel-a3356513b] for more updates and discussions.
 
 Tags:
 #AutoML #MachineLearning #DataScience #Innovation #GitHub
